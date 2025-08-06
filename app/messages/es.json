@@ -1,0 +1,32 @@
+{
+  "Navbar": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "pricing": "Precios",
+    "changeLanguage": {
+      "title": "Cambiar idioma",
+      "languages": {
+        "english": "Ingles",
+        "spanish": "Español"
+      }
+    },
+    "changeTheme": {
+      "title": "Cambiar tema",
+      "themes": {
+        "light": "Claro",
+        "dark": "Oscuro",
+        "system": "Sistema"
+      }
+    }
+  },
+  "HomePage": {
+    "hero": "Scrapea la web, en cualquier idioma",
+    "cta": "Comenzar"
+  },
+  "AboutPage": {
+    "title": "Acerca de nosotros"
+  },
+  "PricingPage": {
+    "title": "Precios"
+  }
+}

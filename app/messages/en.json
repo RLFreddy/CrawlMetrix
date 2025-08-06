@@ -1,0 +1,32 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "pricing": "Pricing",
+    "changeLanguage": {
+      "title": "Change language",
+      "languages": {
+        "english": "English",
+        "spanish": "Spanish"
+      }
+    },
+    "changeTheme": {
+      "title": "Change theme",
+      "themes": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      }
+    }
+  },
+  "HomePage": {
+    "hero": "Scrape the web, in any language",
+    "cta": "Get started"
+  },
+  "AboutPage": {
+    "title": "About us"
+  },
+  "PricingPage": {
+    "title": "Pricing"
+  }
+}
